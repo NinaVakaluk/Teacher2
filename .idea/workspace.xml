@@ -4,7 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="77c3adfb-4565-4fdc-b112-0dd054522ae1" name="Changes" comment="" />
+    <list default="true" id="77c3adfb-4565-4fdc-b112-0dd054522ae1" name="Changes" comment="init">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Teacher/AgeTeacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Teacher/FirstNameTeacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Teacher/GetAge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Teacher/GetFirstName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Teacher/GetLastName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Teacher/LastName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Teacher/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Teacher/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Teacher/TeacherGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Teacher/teacherComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Teacher/teacherIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +31,12 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
@@ -29,6 +50,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;
   }
 }</component>
@@ -57,5 +79,53 @@
       <updated>1698662075862</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/master" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
 </project>
